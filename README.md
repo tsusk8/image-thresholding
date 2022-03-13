@@ -1,7 +1,11 @@
 # image-thresholding
 
-## 使い方
+## Discription
+A program performs threshold processing.
+Entering an arbitrary value in "threshold" and then running the program will save the converted image with the intended threshold value.
 
-### 写真を1枚だけでチェックしたい場合は、「1」を入力
-### 写真を複数枚チェックしたい場合は、「2」を入力
-### 写真をフォルダーごとチェックしたい場合は「1」、「2」以外を入力
+## How to use
+
+### Enter "1" if only one photo is to be processed.
+### Enter "2" for multiple photos.
+### To select all the photos in a folder, enter any other value.
